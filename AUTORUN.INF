@@ -1,0 +1,3 @@
+[AutoRun]
+OPEN=STARTDOC.EXE master.bat
+LABEL=USB HOST
